@@ -1,4 +1,4 @@
-concole.log("Задача №1");
+console.log("Задача №1");
 
 
 function getSolutions( a, b, c ) {
@@ -63,7 +63,7 @@ function getAverageScore(data) {
 function getAverageMark(marks) {
     let sum = 0
 
-    for(let i = 0; i < marks.length: i++) {
+    for(let i = 0; i < marks.length; i++) {
         sum += marks[i];
     }
 
